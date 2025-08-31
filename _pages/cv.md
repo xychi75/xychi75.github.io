@@ -26,7 +26,7 @@ ment rate, wage, and labor education level from the US Department of Labor
  • Summarized data and conducted relevant statistical analysis using regression and
  difference-in-difference techniques
  • Assessed the use of AI tools (e.g., ChatGPT) in the economic research
-  * Supervisor: [https://sites.google.com/site/johnhamecon/home](Prof. John Ham)
+  * Supervisor: [Prof. John Ham](https://sites.google.com/site/johnhamecon/home)
 
 * May 2023 - Dec 2023: Research Assistant
   * Center for Interacting Urban Networks, New York University Abu Dhabi
@@ -42,7 +42,7 @@ scripts and institutional shareholder investment
  time
  • Tested hypotheses about variations in ESG investing across business sectors and
  main institutional shareholder
-  * Supervisor: [https://makovi.net/](Prof. Kinga Makovi) and [https://www.thomas-marlow.com/](Prof. Thomas Marlow)
+  * Supervisor: [Prof. Kinga Makovi](https://makovi.net/) and [Prof. Thomas Marlow](https://www.thomas-marlow.com/)
   
 Skills (ranked based on proficiency)
 ======
