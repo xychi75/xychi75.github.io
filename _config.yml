@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Robert Xinyuan Chi"
   pronouns         : # example: "he/him"  
-  bio              : "I am currently a first-year MA student in Statistics and Data Science at Washington University in St. Louis."
+  bio              : "First-year MA student in Statistics and Data Science at Washington University in St. Louis"
   location         : "St. Louis, MO"
-  employer         : ""
+  employer         : # URL
   uri              : # URL
   email            : "chi.x@wustl.edu" 
 
