@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Statistics and Data Science, Washington University in St. Louis, 2027 (Expected)
+* B.A. in Economics and Mathematics, New York University Abu Dhabi, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Dec 2024: Research Assistant
+  * Department of Social Science, New York University Abu Dhabi
+  * Duties includes:
+ • Reviewed relative literature in the field of labor economics and microeconometrics
+ with specializations in labor supply models
+ • ExaminedandOrganizedapproximately 900,000 data entries involving unemploy
+ment rate, wage, and labor education level from the US Department of Labor
+ • Summarized data and conducted relevant statistical analysis using regression and
+ difference-in-difference techniques
+ • Assessed the use of AI tools (e.g., ChatGPT) in the economic research
+  * Supervisor: [https://sites.google.com/site/johnhamecon/home](Prof. John Ham)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Dec 2023: Research Assistant
+  * Center for Interacting Urban Networks, New York University Abu Dhabi
+  * Duties included:
+ • Developed a database containing over 100 million data entries to track the emer
+gence and trends in ESG, as well as the involvement of various financial institu
+tions
+ • Cleaned and Integrated 20 datasets above containing corporate earning call tran
+scripts and institutional shareholder investment
+ • Created a large, networked, textual dataset that contains approximately 100,000
+ entries on ESG and climate risk
+ • Augmented the dataset by identifying named entities, topics and sentiments over
+ time
+ • Tested hypotheses about variations in ESG investing across business sectors and
+ main institutional shareholder
+  * Supervisor: [https://makovi.net/](Prof. Kinga Makovi) and [https://www.thomas-marlow.com/](Prof. Thomas Marlow)
   
-Skills
+Skills (ranked based on proficiency)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* R
+* Python
+* MATLAB
