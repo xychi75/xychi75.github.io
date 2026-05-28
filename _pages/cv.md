@@ -1,14 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
-
-## Download PDF Version
-
-[Download CV](/files/CV_Robert_Chi.pdf)
+<embed src="/files/CV.pdf"
+       width="100%"
+       height="1000px"
+       type="application/pdf">
